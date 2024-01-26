@@ -10,5 +10,7 @@ public class Main {
         fortunate.accelerator(20);
         fortunate.accelerator(-55);
         fortunate.accelerator(-5);
+        ///https://www.youtube.com/watch?v=NmL3Gev4tSw
+        
     }
 }

@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2099c0aa-6836-4fbd-8485-b1d49ece4468" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/goonok/SUV.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/goonok/Vehicle/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/goonok/car/Car.java" afterDir="false" />
+    <list default="true" id="2099c0aa-6836-4fbd-8485-b1d49ece4468" name="Changes" comment="A simple Vehicle OOP project">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/goonok/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/goonok/Main.java" afterDir="false" />
     </list>
@@ -80,12 +77,25 @@
       <updated>1706160404105</updated>
       <workItem from="1706160405083" duration="2000" />
       <workItem from="1706225091500" duration="707000" />
-      <workItem from="1706227234961" duration="3707000" />
+      <workItem from="1706227234961" duration="5065000" />
     </task>
+    <task id="LOCAL-00001" summary="A simple Vehicle OOP project">
+      <option name="closed" value="true" />
+      <created>1706234783743</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1706234783743</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="A simple Vehicle OOP project" />
+    <option name="LAST_COMMIT_MESSAGE" value="A simple Vehicle OOP project" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
